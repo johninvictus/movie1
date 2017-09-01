@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cinephilia</string>
+    <string name="action_filter">filter</string>
+    <string name="action_settings">settings</string>
+    <string name="action_popular">Popular</string>
+    <string name="action_top_rated">Top rated</string>
+    <string name="category_key" translatable="false">category_key</string>
+    <string name="category_default" translatable="false">popular</string>
+    <string name="category_top_rated">top_rated</string>
+
+    <string name="lorem">Morbi feugiat egestas turpis sit amet lobortis. Nullam interdum congue commodo.Pellentesque sed lobortis ipsum, eget scelerisque metus.</string>
+
+
+</resources>
